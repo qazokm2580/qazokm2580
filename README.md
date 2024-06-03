@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
 
 **🐱 My GitHub Data** 
@@ -24,6 +26,45 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌆 Daytime                12 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌃 Evening                23 commits          █████████████░░░░░░░░░░░░   51.11 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                18 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Thursday                 18 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -36,5 +77,5 @@ C++                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 03/06/2024 16:08:15 UTC
+ Last Updated on 03/06/2024 16:36:55 UTC
 <!--END_SECTION:waka-->
